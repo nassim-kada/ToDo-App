@@ -23,10 +23,7 @@ This is a React project built using [React.js](https://reactjs.org/). It provide
 ## Contributing
 Contributions are welcome! To contribute:
 1. Fork this repository.
-2. Create a new branch for your feature: 
-   ```bash
-   git checkout -b feature-name
-   ```
+2. Create a new branch for your feature
 3. Commit your changes and push the branch.
 4. Open a pull request.
 
