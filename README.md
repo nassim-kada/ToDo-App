@@ -7,8 +7,8 @@ This is a React project built using [React.js](https://reactjs.org/). It provide
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd your-react-project
+   git clone https://github.com/nassim-kada/ToDo-App
+   cd ToDo-App
    ```
 
 2. Install dependencies:
@@ -18,17 +18,8 @@ This is a React project built using [React.js](https://reactjs.org/). It provide
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
-
-## Deployment
-This project can be built for production using:
-```bash
-npm run build
-```
-
-The production build will be available in the `build/` directory.
-
 ## Contributing
 Contributions are welcome! To contribute:
 1. Fork this repository.
